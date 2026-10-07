@@ -20,16 +20,35 @@
 ## 🛠️ Installation & Setup
 
 1. **Clone or download** this repository.
-2. Ensure you have Python installed, then install the required dependencies:
+2. Create a virtual environment:
+   * **Linux / macOS:**
+     ```bash
+     python -m venv env
+     ```
+   * **Windows:**
+     ```cmd
+     "\installed_python_path\python" -m venv env
+     ```
+3. Activate the virtual environment:
+   * **Linux / macOS:**
+     ```bash
+     source env/bin/activate
+     ```
+   * **Windows:**
+     ```cmd
+     env\Scripts\activate
+     ```
+4. Ensure you have Python installed, then install the required dependencies:
    ```bash
    pip install -r requirements.txt
    ```
-3. Run the application:
+5. Run the application:
    ```bash
    python main.py
    ```
 
 ---
+
 
 ## 📱 Build Your Own APK / iOS App!
 Since **KcalCore** is powered by Flet, you can easily package it into a native Android APK or iOS app using Flet's built-in packaging tools (`flet build`). 
