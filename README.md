@@ -90,4 +90,4 @@ ft.Column(
 
 ## 📜 License & Usage
 **Ez Pz / No Sweat License:** 
-Do whatever you want with this code! Fork it, copy it, build APKs, sell it, modify it, or show it off. No strings attached, no legal hoopsm! complete freedom. If you wanna drop a tiny nod to [Mohib Ashfaq](https://github.com/mohib-ash) somewhere, that's cool! 🚀
+Do whatever you want with this code! Fork it, copy it, build APKs, sell it, modify it, or show it off. No strings attached, no legal hoopsm! complete freedom. If you wanna drop a tiny nod to [Mohib Ashfaq](https://github.com/mohib-ash) somewhere, that'd be cool! 🚀
