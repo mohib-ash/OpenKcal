@@ -3,9 +3,9 @@
 **KcalCore** is a modern, lightweight, and sleek precision calorie and macro calculation engine built using [Flet](https://flet.dev/) and Python. It started as a fun side project to explore what Flet can do, and turned into an awesome way to learn cross-platform UI development! It features a stunning dark-mode UI designed for quick, precise nutritional estimation.
 
 
-<p align="center">
-  <video src="https://github.com/user-attachments/assets/5eb1b52e-be12-49aa-a7a8-b5d94ac15c05" width="300" alt="OpenKcal Demo">
-</p>
+<div align="center">
+  <video src="https://raw.githubusercontent.com/mohib-ash/OpenKcal/main/usage.mp4" width="320" autoplay loop muted playsinline></video>
+</div>
 
 
 ---
