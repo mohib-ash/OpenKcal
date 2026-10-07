@@ -25,7 +25,6 @@ def main(page: ft.Page):
     page.window.height = 700
     page.window.resizable = False
 
-    # Aesthetic Design Tokens
     BG_TOP = "#090D16"
     BG_BOTTOM = "#020408"
     SURFACE = "#111827"
@@ -132,7 +131,6 @@ def main(page: ft.Page):
                 page.update()
                 return
 
-            # Validate food name if provided (ensure it's not purely a number)
             raw_name = food_name_input.value.strip()
             if raw_name:
                 try:
