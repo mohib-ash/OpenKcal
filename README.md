@@ -4,8 +4,9 @@
 
 
 <div align="center" style="margin-left: 40px;">
-  <video src="https://github.com/user-attachments/assets/7853c9cf-fc4d-4763-9c73-90e440b30e6b" width="300" alt="OpenKcal Demo">
-<div/>
+  <video src="https://github.com/user-attachments/assets/7853c9cf-fc4d-4763-9c73-90e440b30e6b" width="150" alt="OpenKcal Demo">
+</div>
+
 
 ---
 
